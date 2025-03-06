@@ -1,5 +1,5 @@
 # Automated-Bot
-This is a Automated preordering bot made in python using Selenium. After the events that occurred with the Nvidia RTX 3080 my curiosity peaked and decided to make a script of my own, trying my hand in the technology.
+This is a Automated preordering bot made in python using Selenium. Attempting to configure for Nintendo Switch 2 in April
 
 1. The config file is where you enter all relevant shipping and billing information
 2. There are two scripts
